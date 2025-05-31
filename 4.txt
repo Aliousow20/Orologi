@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Audemars Piguet Royal Oak </title></head>
+<body>
+<center><font color="purple"><h1>Audemars Piguet Royal Oak</h1></font></center>
+<img src="4.jpg">
+<h1>L'Audemars Piguet Royal Oak è uno degli orologi più iconici e rivoluzionari mai creati, simbolo di lusso sportivo e innovazione nel design. Presentato nel 1972, ha segnato una svolta nell'orologeria, abbandonando i tradizionali orologi in oro per introdurre l'acciaio come materiale di lusso.
+🧭 Caratteristiche Tecniche
+Cassa: Disponibile in diverse dimensioni, da 33 mm a 41 mm, realizzata in acciaio inossidabile, oro rosa, oro bianco, titanio, ceramica o platino.
+
+Design della Lunetta: Ottagonale con 8 viti esagonali a vista, un design distintivo che lo rende immediatamente riconoscibile.
+
+Quadrante: Caratterizzato dal motivo "Grande Tapisserie", un pattern a quadrati che conferisce profondità e texture al quadrante.
+
+Bracciale: Integrato nella cassa, in acciaio o materiali pregiati, con maglie satinate e lucidate a mano, simbolo di artigianalità.
+
+Movimento: Varie referenze utilizzano il calibro automatico AP 2121, noto per la sua sottigliezza e precisione.
+
+Impermeabilità: Generalmente fino a 50 metri, adatto per uso quotidiano ma non per immersioni professionali.</h1>
+<br><br><br>
+torna alla home<a href="index.html"> CLICCA QUI</a>
